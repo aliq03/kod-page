@@ -30,6 +30,7 @@
     width: 16px;
     height: 16px;
     background: url(https://img.webme.com/pic/a/aliq03/outline-copy.png) no-repeat 0 0;
+        background-size: 16px;
 }
 
 .code-box-copy:hover .code-box-copy__btn {
