@@ -4,7 +4,7 @@
 }
 
 .code-box-copy pre[class*="language-"] {
-    border: 1px solid #ddd;
+    border: 1px solid transparent;
     border-radius: 2px;
 }
 
